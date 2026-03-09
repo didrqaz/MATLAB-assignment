@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 int main() {
 
 	int n, m;
@@ -24,4 +23,5 @@ int main() {
 	else printf("%d", i/5+j/3);
 
 	return 0;
+
 }
